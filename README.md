@@ -1,1 +1,1 @@
-[Play](Davo0416.github.io/MouseAI/)
+[Play](https://Davo0416.github.io/MouseAI/)
